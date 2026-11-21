@@ -1,0 +1,2 @@
+# Exclude generated HTML reports from GitHub language statistics.
+/salary_prediction_project.html linguist-generated=true
